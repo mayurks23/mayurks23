@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mayur 👋
 
-<!--
-**mayurks23/mayurks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Science & Data Engineering Enthusiast
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python
+- SQL
+- Apache Airflow
+- Docker
+- PostgreSQL
+- Flask
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- Weather ETL Pipeline (Airflow + Docker)
+- Sentiment Analysis Flask App
+- URL Shortener (Flask + Auth)
+- ML End-to-End Pipeline
+
+## 📈 Currently Learning
+- MLOps
+- AWS
+- Production Data Pipelines
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/mayur-kumar-sourav)
+[Twitter](https://x.com/may11303)
